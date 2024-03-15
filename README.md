@@ -1,2 +1,4 @@
-# BritishAirwaysData
-British Airways Data Job Simulation
+# British Airways Data 
+* Created a LDA model
+* Wordcloud
+* Predicitve analysis
